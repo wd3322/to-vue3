@@ -14,10 +14,10 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.8b15e19ff720d21f659dce9fec85904f.js"
+  "precache-manifest.b4af098573b507e7464b47860e21d2ac.js"
 );
 
-workbox.core.setCacheNameDetails({prefix: "vue2opitons-to-vue3composition-doc"});
+workbox.core.setCacheNameDetails({prefix: "vue2-to-composition-api-doc"});
 
 self.addEventListener('message', (event) => {
   if (event.data && event.data.type === 'SKIP_WAITING') {
