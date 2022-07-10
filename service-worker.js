@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.c7425c94d67d744243846ddd0a403b04.js"
+  "precache-manifest.4dec5664b576fb12acbe3f05dcdc4b2a.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "vue2opitons-to-vue3composition-doc"});
