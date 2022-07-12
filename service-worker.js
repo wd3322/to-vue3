@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.b0d94f2cebefa136d4db0505b687151b.js"
+  "precache-manifest.0ae9fad1549fabb8d0f3434c8345ac96.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "vue2-to-composition-api-doc"});
